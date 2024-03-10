@@ -26,6 +26,14 @@ To further enhance user empowerment, TruthGuard offers direct links to reputable
 
 ![TruthGuard Workflow](https://github.com/rppadmakumar3/TruthGauge/blob/main/asset/OneAPI%20-%20SkillUpNow%20(4).png)
 
+## Demo Images
+![Screenshot 2024-03-10 113546](https://github.com/rppadmakumar3/TruthGauge/assets/116913142/2743405d-82da-48dc-ab98-66597beaa963)
+![Screenshot 2024-03-10 113643](https://github.com/rppadmakumar3/TruthGauge/assets/116913142/123c73c3-e6e1-41ec-9e45-a169797631a0)
+![Screenshot 2024-03-10 113424](https://github.com/rppadmakumar3/TruthGauge/assets/116913142/eac5600d-0181-4892-bc19-cb893810a9fb)
+![Screenshot 2024-03-10 113500](https://github.com/rppadmakumar3/TruthGauge/assets/116913142/419f2a8a-e786-44fb-b859-1ce5ae205b84)
+
+
+
 ## Getting Started
 
 To use TruthGuard, follow these simple steps:
