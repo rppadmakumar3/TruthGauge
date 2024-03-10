@@ -10,3 +10,8 @@
 
 
 [Work Flow  ([asset\OneAPI - SkillUpNow (4).png](https://github.com/rppadmakumar3/TruthGauge/blob/main/asset/OneAPI%20-%20SkillUpNow%20(4).png)https://github.com/rppadmakumar3/TruthGauge/blob/main/asset/OneAPI%20-%20SkillUpNow%20(4).png) ]
+
+
+
+
+![workflow]([http://url/to/img.png](https://github.com/rppadmakumar3/TruthGauge/blob/main/asset/OneAPI%20-%20SkillUpNow%20(4).png)https://github.com/rppadmakumar3/TruthGauge/blob/main/asset/OneAPI%20-%20SkillUpNow%20(4).png)
