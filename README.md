@@ -1,8 +1,10 @@
 # TruthGauge
 
 **DESCRIPTION:**
-
+```
     In today's digital age, the spread of misinformation poses a significant threat. False information travels faster than truth online, eroding trust in institutions, hindering informed public discourse, and jeopardizing democratic processes. Malicious actors employ ever-sophisticated techniques, making it difficult for users to identify misleading content. We urgently need innovative solutions to empower users and combat the rising tide of misinformation.
+
+```
 
 *Solution:*
 
