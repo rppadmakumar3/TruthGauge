@@ -41,3 +41,6 @@ To use TruthGuard, follow these simple steps:
 1. Clone the repository: `git clone https://github.com/rppadmakumar3/TruthGauge.git`
 2. Navigate to the project directory: `cd TruthGauge/WebApp`
 3. Run `streamlit run main.py`.
+
+# VIDEO
+[Watch the final video](https://drive.google.com/file/d/19ArbOftEe99gW9fpzpkNY5rKzR5yzJhZ/view?usp=sharing)
