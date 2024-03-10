@@ -10,5 +10,5 @@
 
 
 
-
+**WORK FLOW:**
 ![workflow](https://github.com/rppadmakumar3/TruthGauge/blob/main/asset/OneAPI%20-%20SkillUpNow%20(4).png)
