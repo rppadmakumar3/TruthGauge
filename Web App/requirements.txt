@@ -1,0 +1,7 @@
+streamlit
+transformers
+beautifulsoup4
+requests
+youtube-dl
+PyPDF2
+python-docx
